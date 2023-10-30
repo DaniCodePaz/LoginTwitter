@@ -1,0 +1,168 @@
+.align-center1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 50%;
+  float: left;
+}
+
+.align-center2 {
+  display: flex;
+  justify-content: left;
+  height: 100vh;
+  width: 50%;
+  float: left;
+}
+
+.align-center3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.py-1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 20px;
+  padding-left: 60px;
+}
+
+.py-1 h1 {
+  font-size: 70px;
+}
+
+.py-1 h2 {
+  font-size: 30px;
+}
+
+.py-1 h6 {
+  font-size: 11px;
+  margin: 0 auto;
+  padding-top: 8px;
+  padding-left: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px 50px;
+  border-radius: 45px;
+  cursor: pointer;
+  background-color: rgb(248, 245, 245);
+}
+
+.btn-1 img {
+  padding-right: 10px;
+}
+
+.btn-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px 57px;
+  border-radius: 45px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: #rgb(248, 245, 245);
+}
+
+.btn-2 img {
+  padding-right: 10px;
+}
+
+.btn-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px 109px;
+  border-radius: 45px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: #56a8df;
+  color: white;
+}
+
+button:hover {
+  background-color: rgb(228, 215, 215);
+}
+.btn-3:hover {
+  background-color: #2e8fcf;
+}
+
+.hr {
+  width: 57%;
+  margin: 0 auto;
+  float: left;
+}
+
+.span {
+  position: relative;
+  bottom: 10px;
+  right: 180px;
+  background-color: white;
+  padding: 0 10px;
+}
+
+.py-1 h6 a {
+  text-decoration: none;
+}
+
+.py-1 h6 a:hover {
+  text-decoration: underline;
+}
+
+.py-1 h3 {
+  font-size: 17px;
+  padding-top: 50px;
+}
+
+.btn-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 12px 109px;
+  border-radius: 45px;
+  cursor: pointer;
+  margin-top: 10px;
+  background-color: rgb(248, 245, 245);
+  color: #0177c5;
+}
+
+.div-pad {
+  padding-top: 10px;
+  display: inline-block;
+  width: 100%;
+}
+
+.div-pad p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.div-pad p a {
+  text-decoration: none;
+  color: #546371;
+  padding: 0 5px;
+}
+.div-pad p a:hover {
+  text-decoration: underline;
+}
+
+p {
+  color: #546371;
+}
